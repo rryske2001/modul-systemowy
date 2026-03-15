@@ -10,8 +10,6 @@ Niniejsze repozytorium zawiera kompleksowe rozwiązanie dla obsługi popularnych
 1.  **Warstwa sprzętowa:** Projekty płytek drukowanych (PCB) wykonane w środowisku **KiCad**, służące jako adaptery i moduły interfejsowe dla wyświetlaczy 16x2, 20x4 oraz 40x2.
 2.  **Warstwa programowa:** Biblioteki sterowników napisane w języku C, obsługujące różne tryby komunikacji (I2C, 4-bit, 8-bit) ze szczególnym naciskiem na optymalizację (odczyt flagi zajętości - Busy Flag).
 
-Projekt demonstruje umiejętność projektowania systemów wbudowanych od schematu elektrycznego po niskopoziomowe oprogramowanie.
-
 ---
 
 ## 🛠️ Funkcjonalności
